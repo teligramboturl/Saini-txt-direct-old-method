@@ -10,5 +10,6 @@ OWNER = int(environ.get("OWNER", "6677821706"))
 CREDIT = environ.get("CREDIT", "𝙎𝘼𝙄𝙉𝙄 𝘽𝙊𝙏𝙎")
 LOG_CHANNEL = "-1002685378156" # log group me bot ko admin narur banaye full rights ke sath
 #WEBHOOK = True  # Don't change this
-#PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
+#PORT = int(os.environ.get("PORT", 8080))  # Default to 8080 if not set
+
 
